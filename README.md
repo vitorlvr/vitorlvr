@@ -1,4 +1,4 @@
-## Oi, sou o Vitor Souza
+## Olá!
 <div align="center">
   <a href="https://github.com/vitorlvr">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorlvr&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
